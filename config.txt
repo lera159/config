@@ -1,0 +1,11 @@
+* Это однострочный комментарий
+{#
+Это многострочный
+комментарий
+#}
+person = table([
+  name = "Ivan",
+  age = 30,
+  city = "Moscow"
+])
+txt = "Hello world!"
